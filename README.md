@@ -16,5 +16,7 @@ Estou em busca de oportunidades de estágio que me permitam aprimorar minha expe
 
 - [Código de monitoramento de Hortaliças em C++](Codigo%20Sensores%20de%20nutrientes.cpp)
   - Descrição: Projeto feito para análise e comparação de sensores inseridos num terreno agrário que detectam o nível de nutrientes no solo, sendo eles, água, cálcio e potássio.
-
+- [Site Rent a Game]()
+  - Descrição: Projeto de site feito para aula de Desenvolvimento Web que consiste num site de aluguel de jogos em todas as plataformas como Steam, PlayStation, Xbox, entre outros.
+ 
 
