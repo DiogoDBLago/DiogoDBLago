@@ -14,7 +14,7 @@ Estou em busca de oportunidades de estágio que me permitam aprimorar minha expe
 
 ## Meus Projetos
 
-- [Código de monitoramento de Hortaliças em C++]()
-  - Descrição:
+- [Código de monitoramento de Hortaliças em C++](Código Sensores de nutrientes.cpp)
+  - Descrição: Projeto feito para análise e comparação de sensores inseridos num terreno agrário que detectam o nível de nutrientes no solo, sendo eles, água, cálcio e potássio.
 
 
